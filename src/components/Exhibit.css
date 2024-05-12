@@ -1,0 +1,31 @@
+.Exhibit {
+    float: left;
+    margin: 0.5vw;
+    padding: 0vw 2vw 0vw 2vw;
+    text-align: center;
+    color: #ffffff;
+    background-color: #e75700;
+    border: 0.25vw solid #101928  ;
+    border-radius: 1vw;
+}
+.real{
+    padding-left: 50px;
+    padding-top: 50px;
+}
+
+.ExhibitHeading {
+    font-weight: bold;
+    font-size: 1.75vw;
+}
+
+.ExhibitContent {
+    margin: 0.5vw;
+    padding: 1vw 1vw 1vw 1vw;
+    text-align: center;
+    font-weight: bold;
+    font-size: 1.75vw;
+    color: #ffffff;
+    background-color: #101928;
+    border: 0.25vw solid #101928;
+    border-radius: 2vw;
+}
